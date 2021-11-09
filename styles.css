@@ -1,7 +1,7 @@
 body{
   margin: 25px;
-  height: 100%;
-  width: 100%; 
+  height: auto;
+  width: auto; 
 }
 
 header{
